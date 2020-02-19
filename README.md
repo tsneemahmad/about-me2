@@ -6,3 +6,6 @@ now html has an unordered list that contain my education and work experience and
 now the web page will show extra 2 questions to the user, the first one asking him to guess my age and he/she has 4 trials.
 for the second one he/she should guess one of my favourite flowers out of 6 trials.
 at the end a total mark of the right answers will be showen. 
+
+i was the driver to this code 
+and tsneem was the navegator.
