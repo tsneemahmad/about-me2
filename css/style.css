@@ -1,0 +1,52 @@
+header {
+    background-color: bisque;
+    color: black;
+    border: 5px solid black ;
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+body {
+    background-color: cornsilk ;
+}
+
+p {
+    font-size: 25px;
+    padding: 10px;
+}
+h3 {
+    background-color: rgb(248, 216, 177);
+    font-weight: bold;
+    margin: 10px;
+    padding: 8px;
+    display: inline-block;
+}
+
+ul {
+    padding-left: 30px;
+    font-size: 18px;
+    list-style-type: circle;
+}
+h4 {
+    background-color:  rgb(248, 216, 177);
+    display: inline-block;
+ font-weight: bold;
+    margin: 10px; 
+    padding: 8px;                  
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 30px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: bisque;
+text-align: center;
+margin: 10px;
+}
+footer p {
+    font-size: 15px;
+}
